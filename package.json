@@ -1,0 +1,19 @@
+{
+  "name": "webpack-config-filter",
+  "version": "1.0.1",
+  "description": "webpack配置简化工具",
+  "main": "webpackConfigFilter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/weiyinfu/webpackConfigFilter.git"
+  },
+  "author": "weiyinfu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/weiyinfu/webpackConfigFilter/issues"
+  },
+  "homepage": "https://github.com/weiyinfu/webpackConfigFilter#readme"
+}
